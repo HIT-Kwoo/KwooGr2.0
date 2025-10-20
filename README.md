@@ -16,7 +16,7 @@
 
 ### :fire::trophy:News
 
-- **[2025/10/23]** :rose::rose:我们正式发布**KwooGr-V2.0**——国内首个**多类型、泛品种、跨区域**的农业作物生长大模型！该模型具备**人机友好、鲁棒输入、多作物兼容、多品系适应**的特点，为**快速育种与跨地区泛化预测**提供了强有力的技术支撑。现已支持[Web端](https://www.tgkwai.com/) 、[Android端APP](#:iphone:天工开悟app-android版)访问。
+- **[2025/10/23]** :rose::rose:我们正式发布**KwooGr-V2.0**——国内首个**多类型、泛品种、跨区域**的农业作物生长大模型！该模型具备**人机友好、鲁棒输入、多作物兼容、多品系适应**的特点，为**快速育种与跨地区泛化预测**提供了强有力的技术支撑。现已支持[Web端](https://www.tgkwai.com/) 、[Android端APP](#android-app)访问。
 - **[2024/11/20]** :star2::star2:发布**KwooGr App使用教程与测试用例**，帮助用户快速上手，全面体验模型在农业生产中的**高效性与易用性**，加速智能农业的落地应用。
 - **[2024/11/20]** :boom::boom:推出**KwooGr API访问接口**！开发者与企业用户可轻松集成模型能力，助力农业领域的**智能化升级与精准决策**。
 - **[2024/11/2]** :fireworks::fireworks:发布**KwooGr 初始版本** —— 国内首个农业作物生长大模型，为**快速育种与跨区域预测**提供了创新技术基础。
@@ -267,7 +267,7 @@
 - [杨洋](https://ai.cust.edu.cn/szdw/zrjs/3f60de2fb4634ee189b2cb9ce84a2d98.htm) 副教授
 - [关毅](https://homepage.hit.edu.cn/guanyi) 教授
 
-### :iphone: 天工开悟APP (Android版)
+### :iphone: 天工开悟APP (Android版) {#android-app}
 
 欢迎扫描下方二维码下载**天工开悟 APP**，体验智能农业问答功能。
 
