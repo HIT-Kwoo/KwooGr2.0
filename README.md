@@ -297,7 +297,7 @@
         </tr>
     <tr>
         <td>
-            <img src="assets/web.jpg">
+            <img src="assets/Web.jpg">
         </td>
         <td>
             <img src="assets/Android.jpg">
