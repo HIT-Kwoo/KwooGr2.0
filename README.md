@@ -96,7 +96,7 @@
             <img src="assets/SoybeanGrowthPrediction-LeafAreaIndex.png">
         </td>
         <td>
-            <img src="assets/SoybeanGrowthPrediction-MainstemFreshWeight.png">
+            <img src="assets/SoybeanGrowthPrediction-MainStemFreshWeight.png">
         </td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@
             <img src="assets/SoybeanGrowthPrediction(OnlyWeather)-LeafAreaIndex.png">
         </td>
         <td>
-            <img src="assets/SoybeanGrowthPrediction(OnlyWeather)-MainstemFreshWeight.png">
+            <img src="assets/SoybeanGrowthPrediction(OnlyWeather)-MainStemFreshWeight.png">
         </td>
     </tr>
     <tr>
@@ -150,7 +150,7 @@
             <img src="assets/SoybeanGrowthPrediction(WOFOST)-LeafAreaIndex.png">
         </td>
         <td>
-            <img src="assets/SoybeanGrowthPrediction(WOFOST)-MainstemFreshWeight.png">
+            <img src="assets/SoybeanGrowthPrediction(WOFOST)-MainStemFreshWeight.png">
         </td>
     </tr>
     <tr>
@@ -177,7 +177,7 @@
             <img src="assets/WheatGrowthPrediction(WOFOST)-LeafAreaIndex.png">
         </td>
         <td>
-            <img src="assets/WheatGrowthPrediction(WOFOST)-MainstemFreshWeight.png">
+            <img src="assets/WheatGrowthPrediction(WOFOST)-MainStemFreshWeight.png">
         </td>
     </tr>
     <tr>
@@ -204,7 +204,7 @@
             <img src="assets/RiceGrowthPrediction(WOFOST)-LeafAreaIndex.png">
         </td>
         <td>
-            <img src="assets/RiceGrowthPrediction(WOFOST)-MainstemFreshWeight.png">
+            <img src="assets/RiceGrowthPrediction(WOFOST)-MainStemFreshWeight.png">
         </td>
     </tr>
     <tr>
@@ -231,7 +231,7 @@
             <img src="assets/MaizeGrowthPrediction(WOFOST)-LeafAreaIndex.png">
         </td>
         <td>
-            <img src="assets/MaizeGrowthPrediction(WOFOST)-MainstemFreshWeight.png">
+            <img src="assets/MaizeGrowthPrediction(WOFOST)-MainStemFreshWeight.png">
         </td>
     </tr>
     <tr>
