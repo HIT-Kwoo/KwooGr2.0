@@ -90,7 +90,7 @@
 <table align="center">
     <tr>
         <td>
-            <img src="assets/SoybeanGrowthPrediction-GreenleafFreshWeight.png">
+            <img src="assets/SoybeanGrowthPrediction-GreenLeafFreshWeight.png">
         </td>
         <td>
             <img src="assets/SoybeanGrowthPrediction-LeafAreaIndex.png">
@@ -107,7 +107,7 @@
             <img src="assets/SoybeanGrowthPrediction-TotalLeafArea.png">
         </td>
         <td>
-            <img src="assets/SoybeanGrowthPrediction-YellowleafFreshWeight.png">
+            <img src="assets/SoybeanGrowthPrediction-YellowLeafFreshWeight.png">
         </td>
     </tr>
 </table>
@@ -117,7 +117,7 @@
 <table align="center">
     <tr>
         <td>
-            <img src="assets/SoybeanGrowthPrediction(OnlyWeather)-GreenleafFreshWeight.png">
+            <img src="assets/SoybeanGrowthPrediction(OnlyWeather)-GreenLeafFreshWeight.png">
         </td>
         <td>
             <img src="assets/SoybeanGrowthPrediction(OnlyWeather)-LeafAreaIndex.png">
@@ -134,7 +134,7 @@
             <img src="assets/SoybeanGrowthPrediction(OnlyWeather)-TotalLeafArea.png">
         </td>
         <td>
-            <img src="assets/SoybeanGrowthPrediction(OnlyWeather)-YellowleafFreshWeight.png">
+            <img src="assets/SoybeanGrowthPrediction(OnlyWeather)-YellowLeafFreshWeight.png">
         </td>
     </tr>
 </table>
@@ -144,7 +144,7 @@
 <table align="center">
     <tr>
         <td>
-            <img src="assets/SoybeanGrowthPrediction(WOFOST)-GreenleafFreshWeight.png">
+            <img src="assets/SoybeanGrowthPrediction(WOFOST)-GreenLeafFreshWeight.png">
         </td>
         <td>
             <img src="assets/SoybeanGrowthPrediction(WOFOST)-LeafAreaIndex.png">
@@ -161,7 +161,7 @@
             <img src="assets/SoybeanGrowthPrediction(WOFOST)-TotalLeafArea.png">
         </td>
         <td>
-            <img src="assets/SoybeanGrowthPrediction(WOFOST)-YellowleafFreshWeight.png">
+            <img src="assets/SoybeanGrowthPrediction(WOFOST)-YellowLeafFreshWeight.png">
         </td>
     </tr>
 </table>
@@ -171,7 +171,7 @@
 <table align="center">
     <tr>
         <td>
-            <img src="assets/WheatGrowthPrediction(WOFOST)-GreenleafFreshWeight.png">
+            <img src="assets/WheatGrowthPrediction(WOFOST)-GreenLeafFreshWeight.png">
         </td>
         <td>
             <img src="assets/WheatGrowthPrediction(WOFOST)-LeafAreaIndex.png">
@@ -188,7 +188,7 @@
             <img src="assets/WheatGrowthPrediction(WOFOST)-TotalLeafArea.png">
         </td>
         <td>
-            <img src="assets/WheatGrowthPrediction(WOFOST)-YellowleafFreshWeight.png">
+            <img src="assets/WheatGrowthPrediction(WOFOST)-YellowLeafFreshWeight.png">
         </td>
     </tr>
 </table>
@@ -198,7 +198,7 @@
 <table align="center">
     <tr>
         <td>
-            <img src="assets/RiceGrowthPrediction(WOFOST)-GreenleafFreshWeight.png">
+            <img src="assets/RiceGrowthPrediction(WOFOST)-GreenLeafFreshWeight.png">
         </td>
         <td>
             <img src="assets/RiceGrowthPrediction(WOFOST)-LeafAreaIndex.png">
@@ -215,7 +215,7 @@
             <img src="assets/RiceGrowthPrediction(WOFOST)-TotalLeafArea.png">
         </td>
         <td>
-            <img src="assets/RiceGrowthPrediction(WOFOST)-YellowleafFreshWeight.png">
+            <img src="assets/RiceGrowthPrediction(WOFOST)-YellowLeafFreshWeight.png">
         </td>
     </tr>
 </table>
@@ -225,7 +225,7 @@
 <table align="center">
     <tr>
         <td>
-            <img src="assets/MaizeGrowthPrediction(WOFOST)-GreenleafFreshWeight.png">
+            <img src="assets/MaizeGrowthPrediction(WOFOST)-GreenLeafFreshWeight.png">
         </td>
         <td>
             <img src="assets/MaizeGrowthPrediction(WOFOST)-LeafAreaIndex.png">
@@ -242,7 +242,7 @@
             <img src="assets/MaizeGrowthPrediction(WOFOST)-TotalLeafArea.png">
         </td>
         <td>
-            <img src="assets/MaizeGrowthPrediction(WOFOST)-YellowleafFreshWeight.png">
+            <img src="assets/MaizeGrowthPrediction(WOFOST)-YellowLeafFreshWeight.png">
         </td>
     </tr>
 </table>
